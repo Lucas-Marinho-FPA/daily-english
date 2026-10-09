@@ -1,0 +1,94 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Daily English source-grounded content schema",
+  "version": "1.1.0",
+  "source": "Histórico IA inglês.docx",
+  "principles": [
+    "Source content must not be invented.",
+    "Historical learner answers are not treated as answer keys.",
+    "Only corrections matched to the same source prompt are referenceAnswers.",
+    "Records without a validated answer key can be practised in self-assessment mode but must not be auto-marked wrong.",
+    "CEFR levels and exam alignment must not be assigned without a verified basis."
+  ],
+  "translationRecord": {
+    "required": [
+      "id",
+      "type",
+      "direction",
+      "source",
+      "sourceLocation",
+      "prompt",
+      "referenceAnswers",
+      "answerStatus",
+      "audit"
+    ],
+    "properties": {
+      "direction": [
+        "en-pt",
+        "pt-en"
+      ],
+      "prompt": "Source-derived exercise prompt",
+      "historicalAttempt": "Learner response recorded in the source; not automatically correct",
+      "referenceAnswers": "Only source-matched corrections with a target-language heuristic check; not a guarantee of all acceptable translations",
+      "answerStatus": [
+        "source-matched-correction",
+        "no-validated-answer-key"
+      ],
+      "audit": {
+        "semanticReview": "pending",
+        "dictionaryValidation": "not-individually-verified"
+      }
+    }
+  },
+  "dialogueRecord": {
+    "required": [
+      "id",
+      "sourceLocation",
+      "sequence",
+      "turns"
+    ],
+    "turns": "Ordered extracted bilingual turns; grouping still requires human review."
+  },
+  "phrasalVerbRecord": {
+    "required": [
+      "id",
+      "expression",
+      "sourceLocation",
+      "auditStatus"
+    ],
+    "meaning": "null when not explicitly established in source",
+    "usableForQuiz": "true only for table entries with source-provided meaning and example"
+  },
+  "vocabularyRecord": {
+    "required": [
+      "id",
+      "sourceLocation",
+      "fields",
+      "context",
+      "auditStatus"
+    ],
+    "fields": "Original table headers and values preserved; normalized fields are heuristic convenience mappings."
+  },
+  "errorCategories": [
+    "vocabulary",
+    "grammar",
+    "spelling",
+    "interpretation"
+  ],
+  "gradingLevels": [
+    "correct",
+    "acceptable",
+    "partially-correct",
+    "incorrect",
+    "self-assessed"
+  ],
+  "spacedRepetition": {
+    "recommendedIntervalsDays": {
+      "incorrect": 1,
+      "partially-correct": 2,
+      "correct": 3,
+      "mastered": 7
+    },
+    "status": "engine policy, not source-derived pedagogical claim"
+  }
+}

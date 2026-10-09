@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#101b33"><title>Daily English — prática pessoal</title>
+<link rel="stylesheet" href="css/styles.css"><script defer src="js/app.js"></script>
+</head>
+<body>
+<div class="shell">
+  <aside class="sidebar">
+    <div class="brand"><span class="brand-mark">D</span><div><b>Daily English</b><small>prática pessoal</small></div></div>
+    <p class="nav-label">TREINAMENTO</p>
+    <nav>
+      <button class="nav active" data-view="home">⌂ <span>Visão geral</span></button>
+      <button class="nav" data-view="translation">⇄ <span>Tradução</span></button>
+      <button class="nav" data-view="phrasal">↗ <span>Phrasal verbs</span></button>
+      <button class="nav" data-view="vocabulary">Aa <span>Vocabulário</span></button>
+      <button class="nav" data-view="dialogues">☷ <span>Diálogos</span></button>
+    </nav>
+    <div class="sidebar-foot"><div>🔥 <b id="streak-side">0 dias</b><small>sequência atual</small></div><p>Treino consistente.<br><strong>Progresso real.</strong></p></div>
+  </aside>
+  <main>
+    <header class="topbar"><div><p class="eyebrow" id="today"></p><h1 id="page-title">Vamos praticar?</h1></div><div class="profile"><span>L</span><div><b>Meu inglês</b><small>aprendizado contínuo</small></div></div></header>
+    <div id="load-error" class="alert hidden"></div>
+    <section id="view-home" class="view">
+      <div class="hero"><div><span class="pill">ROTINA DE PRÁTICA</span><h2>Seu inglês melhora<br>com <em>prática diária.</em></h2><p>Use suas próprias atividades, reveja erros e construa consistência.</p><button class="primary" id="start-session">Começar tradução →</button></div><div class="hero-mark">A<span>→</span></div></div>
+      <div class="stats"><article><small>PONTOS</small><b id="points">0</b><span>conquistados</span></article><article><small>ITENS PRATICADOS</small><b id="attempts">0</b><span>tentativas registradas</span></article><article><small>SEQUÊNCIA</small><b id="streak">0 dias</b><span>dias de prática</span></article></div>
+      <div class="heading"><div><p class="eyebrow">BIBLIOTECA REAL</p><h2>Escolha seu foco</h2></div><span id="content-count" class="muted">Carregando conteúdo…</span></div>
+      <div class="tiles"><button data-view="translation"><i>⇄</i><b>Tradução</b><span>Inglês → português e português → inglês.</span><strong>Praticar agora ↗</strong></button><button data-view="phrasal"><i>↗</i><b>Phrasal verbs</b><span>Expressões transcritas do documento-fonte.</span><strong>Consultar expressões ↗</strong></button><button data-view="vocabulary"><i>Aa</i><b>Vocabulário</b><span>Palavras, exemplos e tabelas originais.</span><strong>Abrir biblioteca ↗</strong></button><button data-view="dialogues"><i>☷</i><b>Diálogos</b><span>Blocos bilingues na ordem extraída.</span><strong>Revisar diálogos ↗</strong></button></div>
+      <p class="footnote">A base foi extraída do documento Word. Itens sem gabarito validado usam autoavaliação; a extração não equivale a certificação Cambridge, IELTS ou TOEFL.</p>
+    </section>
+    <section id="view-translation" class="view hidden">
+      <div class="heading"><div><p class="eyebrow">PRÁTICA ATIVA</p><h2>Tradução</h2><p class="muted">Compare seu sentido e sua estrutura com a referência disponível.</p></div></div>
+      <div class="switch"><button class="direction active" data-direction="en-pt">English → Português</button><button class="direction" data-direction="pt-en">Português → English</button></div>
+      <div class="practice-grid"><article class="practice"><div class="practice-meta"><span class="pill light" id="item-status">ITEM DE PRÁTICA</span><span id="counter">Questão</span></div><p class="eyebrow" id="direction-label">TRADUZA PARA PORTUGUÊS</p><h2 id="prompt">Carregando…</h2><label for="answer">Sua resposta</label><textarea id="answer" rows="3" placeholder="Digite sua tradução…"></textarea><div id="feedback" class="feedback hidden" aria-live="polite"></div><div class="actions"><button class="quiet" id="skip">Pular</button><button class="primary" id="reveal">Conferir / revelar →</button><button class="primary hidden" id="next">Próxima questão →</button></div></article><aside class="side-card"><p class="eyebrow">SESSÃO</p><div class="bar"><span id="bar"></span></div><div class="between"><b id="session-progress">0 de 10</b><span>questões</span></div><hr><div class="between"><span>Autoavaliação: lembrei</span><button class="mini" id="mark-knew">Lembrei</button></div><div class="between"><span>Preciso revisar</span><button class="mini" id="mark-review">Revisar</button></div><p class="small-note">Sem gabarito validado, o sistema não marcará sua tradução como errada. Use os botões para registrar sua própria avaliação.</p></aside></div>
+    </section>
+    <section id="view-phrasal" class="view hidden"><div class="heading"><div><p class="eyebrow">EXPRESSÕES DA FONTE</p><h2>Phrasal verbs</h2><p class="muted">Itens incompletos ficam visíveis, mas não são usados como gabarito automático.</p></div></div><div class="search"><input id="phrasal-search" placeholder="Buscar expressão, significado ou exemplo…"><span id="phrasal-count"></span></div><div id="phrasal-list" class="list"></div></section>
+    <section id="view-vocabulary" class="view hidden"><div class="heading"><div><p class="eyebrow">DADOS TRANSCRITOS</p><h2>Vocabulário e tabelas</h2><p class="muted">Campos originais preservados para não perder contexto.</p></div></div><div class="search"><input id="vocab-search" placeholder="Buscar palavra, tradução ou exemplo…"><span id="vocab-count"></span></div><div id="vocab-list" class="list"></div></section>
+    <section id="view-dialogues" class="view hidden"><div class="heading"><div><p class="eyebrow">SEQUÊNCIA EXTRAÍDA</p><h2>Diálogos</h2><p class="muted">Agrupamentos automáticos: a ordem foi preservada, mas os limites editoriais ainda podem exigir revisão.</p></div></div><div id="dialogue-list" class="list"></div></section>
+    <footer>DAILY ENGLISH · FONTE: HISTÓRICO IA INGLÊS.DOCX · VERSÃO AUDITÁVEL</footer>
+  </main>
+</div>
+</body></html>

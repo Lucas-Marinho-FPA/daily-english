@@ -1,0 +1,422 @@
+[
+  {
+    "id": "tr_enpt_0581_6dd8b6c1",
+    "reason": "prompt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 581,
+      "translationParagraphIndex": 582
+    },
+    "sourceText": "Por\" é usado quando nós falamos sobre um tempo aproximado; por exemplo: \"I estou aqui por um ano",
+    "userTranslation": "‘Since’ is used when we talk about a point in time; example: “I’ve been here since two o’clock.”"
+  },
+  {
+    "id": "tr_enpt_0583_1a10a10f",
+    "reason": "prompt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 583,
+      "translationParagraphIndex": 584
+    },
+    "sourceText": "Desde\" é usado quen nós falamos sobre um tempo específico: exemplo: \"Eu estou aqui desde as duas horas em ponto.",
+    "userTranslation": "Você pegou perfeitamente a lógica da regra gramatical, mas algumas palavras técnicas e detalhes de digitação precisam de ajuste:"
+  },
+  {
+    "id": "tr_enpt_0838_fa3f95ec",
+    "reason": "prompt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 838,
+      "translationParagraphIndex": 839
+    },
+    "sourceText": "Quando o segundo homem usa “so do I” (eu também) ou “so does mine” (a minha também), ele está expressando concordância, por exemplo: 'Eu estudo inglês.' 'Eu também.' (Eu estudo inglês também).",
+    "userTranslation": "\"Quando o segundo homem usa “neither do I” (nem eu / eu também não) ou “neither does mine” (nem a minha / a minha também não), ele está expressando uma concordância negativa, por exemplo: 'Eu não estudo inglês.' 'Nem eu / Eu também não.' (Eu também não estudo inglês).\""
+  },
+  {
+    "id": "tr_enpt_0839_f073bf23",
+    "reason": "prompt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 839,
+      "translationParagraphIndex": 840
+    },
+    "sourceText": "Quando o segundo homem usa “neither do I” (nem eu / eu também não) ou “neither does mine” (nem a minha / a minha também não), ele está expressando uma concordância negativa, por exemplo: 'Eu não estudo inglês.' 'Nem eu / Eu também não.' (Eu também não estudo inglês).",
+    "userTranslation": "E essa"
+  },
+  {
+    "id": "tr_enpt_1008_a9d14608",
+    "reason": "prompt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 1008,
+      "translationParagraphIndex": 1009
+    },
+    "sourceText": "Eu comprei uma casa nova. Ela tem energia solar; esta é a energia gerada a partir do sol: é a forma de energia mais barata que existe. Não há problema quando o sol não aparece, porque há baterias para armazenar a energia. Minha casa anterior usava energia gerada pela água; esta era muito mais cara do que a energia solar. Esse tipo de energia é chamado de 'hidroeletricidade'. Meu chuveiro usa um aquecedor a gás, e eu tenho uma lareira a carvão. A lareira a carvão não é muito econômica, mas eu amo simplesmente sentar na frente dela, no inverno, enquanto beberico vinho e escuto música. Eu me sinto muito mais feliz na minha casa.",
+    "userTranslation": "E essa"
+  },
+  {
+    "id": "tr_enpt_1025_d7666b03",
+    "reason": "prompt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 1025,
+      "translationParagraphIndex": 1026
+    },
+    "sourceText": "Ruth comprou uma casa nova. Ela usa energia solar: esta é a energia gerada a partir do sol; é a maneira mais barata de gerar eletricidade. A casa anterior dela usava eletricidade gerada pela água.",
+    "userTranslation": "E esse Welcome to Nature World! Today we are going to look at different types of trees and where they grow. We will also look at"
+  },
+  {
+    "id": "tr_enpt_1069_bd1b249f",
+    "reason": "prompt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 1069,
+      "translationParagraphIndex": 1070
+    },
+    "sourceText": "Bem-vindos ao Mundo da Natureza! Hoje nós vamos conhecer diferentes tipos de árvores e onde elas crescem. Também veremos algumas flores, inclusive algumas que podemos encontrar nos parques. Vamos falar sobre o carvalho e a faia. Depois, veremos a rosa e o narciso. E, finalmente, olharemos os animais que dependem delas para alimento ou abrigo. As aves que veremos hoje são os papagaios, e também vamos dar uma olhada no peixinho-dourado.",
+    "userTranslation": "E esse"
+  },
+  {
+    "id": "tr_enpt_1152_523dfe37",
+    "reason": "prompt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 1152,
+      "translationParagraphIndex": 1153
+    },
+    "sourceText": "Eu estudei física nuclear na faculdade, e agora trabalho em uma usina nuclear. Acho que a energia nuclear é a energia do futuro. Muitas pessoas dizem que a energia nuclear é perigosa, mas temos controles rigorosos para garantir que não haja vazamentos de radiação. Vimos muitos avanços na área de energia neste século, e tenho certeza de que, no futuro, nossos filhos usarão uma forma mais segura de energia nuclear.",
+    "userTranslation": "E esse"
+  },
+  {
+    "id": "tr_enpt_1631_6bc68ff1",
+    "reason": "prompt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 1631,
+      "translationParagraphIndex": 1632
+    },
+    "sourceText": "John Lennon nasceu em Liverpool em 1940. Ele aprendeu a tocar violão e, com seus amigos, formou um grupo chamado The Quarrymen. Mais tarde, este grupo se tornou The Beatles. John, com Paul McCartney, George Harrison e Ringo Starr, escreveu e interpretou algumas das músicas mais famosas de todos os tempos e iniciou uma nova onda na música. Depois que John e sua primeira esposa, Cynthia, se divorciaram, ele conheceu e se casou com Yoko Ono. Mais ou menos na mesma época, os Beatles estavam se separando. John continuou com sua carreira, mas desta vez estava sozinho. Durante essa época, ele escreveu baladas e promoveu a paz e o amor. Ele e sua esposa até chegaram a organizar um protesto ficando deitados na cama diante de câmeras de TV. Numa manhã de outono de 1980, quando estava saindo de sua casa em Nova York, John Lennon foi baleado seis vezes e morreu, mas sua música continua popular até hoje.",
+    "userTranslation": "E esse"
+  },
+  {
+    "id": "tr_enpt_1889_18d5b5a5",
+    "reason": "prompt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 1889,
+      "translationParagraphIndex": 1890
+    },
+    "sourceText": "Este é Martin. Ele é americano. Ele está de férias. Ele está em Madri. Ele gosta de tirar fotografias. Seu passatempo é a fotografia, e ele também gosta de usar sua filmadora (câmera de vídeo). Ele está hospedado em um hotel perto do centro de Madri. Não é um hotel muito caro, mas é muito confortável, e ele conhece toda a equipe de suas visitas anteriores.",
+    "userTranslation": "is he"
+  },
+  {
+    "id": "tr_enpt_2224_4f109de8",
+    "reason": "prompt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 2224,
+      "translationParagraphIndex": 2225
+    },
+    "sourceText": "Esta é Mary. Ela está indo fazer compras. Ela está caminhando para a loja. Agora ela está olhando para um vestido de que gosta. Ela está tentando encontrar o tamanho certo. Agora Mary está experimentando o vestido para ver se serve. Mary está se olhando no espelho agora para ver como o vestido fica quando ela o veste. Agora ela está comprando o vestido.",
+    "userTranslation": "late"
+  },
+  {
+    "id": "tr_enpt_2463_4513f1fe",
+    "reason": "prompt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 2463,
+      "translationParagraphIndex": 2464
+    },
+    "sourceText": "Olá, e aqui está a previsão do tempo: hoje o dia estará quente no País de Gales e na Escócia, com algumas pancadas de chuva fraca; a Inglaterra estará seca e nublada; a Irlanda estará quente, mas haverá um pouco de vento no litoral; a França terá chuva na região central, mas sol forte em todo o resto do país. Bom, essa é a previsão do tempo por enquanto, volto em uma hora para atualizações.",
+    "userTranslation": "Quer isolar alguma palavra desse texto (como warm, showers, midlands ou update) antes de seguir?"
+  },
+  {
+    "id": "tr_enpt_2657_82dd9452",
+    "reason": "prompt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 2657,
+      "translationParagraphIndex": 2658
+    },
+    "sourceText": "Olá, eu sou o Charles. Eu sou um estudante. Eu venho morando em Lisboa há dez meses; venho estudando comércio na Universidade de Lisboa. Eu trabalhei muito duro e espero passar nos meus exames! Tenho sido muito feliz aqui: Lisboa é bonita e os portugueses são muito hospitaleiros. Eu conheci uma garota aqui e acho que vou ficar mais um pouco.",
+    "userTranslation": "Dear Sir/Madam,"
+  },
+  {
+    "id": "tr_enpt_2749_5f05dd72",
+    "reason": "attempt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 2749,
+      "translationParagraphIndex": 2750
+    },
+    "sourceText": "Ok.",
+    "userTranslation": "“‘I’m writing to you to inform you…’”"
+  },
+  {
+    "id": "tr_enpt_2750_ebcf9c8a",
+    "reason": "attempt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 2750,
+      "translationParagraphIndex": 2751
+    },
+    "sourceText": "‘I’m writing to you to inform you…’",
+    "userTranslation": "“I think that could be a little too formal. Why not say: ‘I’m writing to tell you...’”"
+  },
+  {
+    "id": "tr_enpt_2751_eb070ade",
+    "reason": "attempt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 2751,
+      "translationParagraphIndex": 2752
+    },
+    "sourceText": "I think that could be a little too formal. Why not say: ‘I’m writing to tell you...’",
+    "userTranslation": "“Yes, that’s better! ‘...to tell you that we haven’t got any of the Random diskettes you ordered….’”"
+  },
+  {
+    "id": "tr_enpt_2753_4a4a3c93",
+    "reason": "attempt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 2753,
+      "translationParagraphIndex": 2754
+    },
+    "sourceText": "Ok.",
+    "userTranslation": "“‘We have similar ones, but these are made by CORLY LTD.’ Is that too formal?”"
+  },
+  {
+    "id": "tr_enpt_2755_77fc7f45",
+    "reason": "attempt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 2755,
+      "translationParagraphIndex": 2756
+    },
+    "sourceText": "No, it’s fine.",
+    "userTranslation": "“‘If you would like to order these or would prefer to wait for the Random diskettes, please, ring me and let me know.’”"
+  },
+  {
+    "id": "tr_enpt_2756_78c3fbe8",
+    "reason": "attempt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 2756,
+      "translationParagraphIndex": 2757
+    },
+    "sourceText": "‘If you would like to order these or would prefer to wait for the Random diskettes, please, ring me and let me know.’",
+    "userTranslation": "“How will I finish the letter?”"
+  },
+  {
+    "id": "tr_enpt_2759_d5886b79",
+    "reason": "attempt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 2759,
+      "translationParagraphIndex": 2760
+    },
+    "sourceText": "Ok, ‘Yours sincerely,’",
+    "userTranslation": "“Can you send it for me?”"
+  },
+  {
+    "id": "tr_enpt_2765_a78a1be0",
+    "reason": "prompt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 2765,
+      "translationParagraphIndex": 2766
+    },
+    "sourceText": "Ah, não, isso é formal demais; o Sr. Carter é cliente aqui há dez anos!",
+    "userTranslation": "(Note a estrutura has been a client... for ten years = é / tem sido cliente há dez anos)."
+  },
+  {
+    "id": "tr_enpt_2768_d3172ceb",
+    "reason": "prompt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 2768,
+      "translationParagraphIndex": 2769
+    },
+    "sourceText": "Você tem razão! Que tal ‘Caro Stephen’? Tudo bem, ‘Caro Stephen,’",
+    "userTranslation": "(A expressão How about...? é a forma clássica de sugerir algo: \"Que tal...?\")."
+  },
+  {
+    "id": "tr_enpt_2771_3b689322",
+    "reason": "attempt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 2771,
+      "translationParagraphIndex": 2772
+    },
+    "sourceText": "Ok.",
+    "userTranslation": "“‘I’m writing to you to inform you…’”"
+  },
+  {
+    "id": "tr_enpt_2773_bf318c0d",
+    "reason": "attempt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 2773,
+      "translationParagraphIndex": 2774
+    },
+    "sourceText": "‘Estou escrevendo para lhe informar...’",
+    "userTranslation": "“I think that could be a little too formal. Why not say: ‘I’m writing to tell you...’”"
+  },
+  {
+    "id": "tr_enpt_2775_924736ac",
+    "reason": "prompt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 2775,
+      "translationParagraphIndex": 2776
+    },
+    "sourceText": "Acho que isso pode ser um pouco formal demais. Por que não dizer: ‘Estou escrevendo para lhe dizer / avisar que...’",
+    "userTranslation": "(Troca-se o formal inform pelo mais acessível tell)."
+  },
+  {
+    "id": "tr_enpt_2778_db55c688",
+    "reason": "prompt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 2778,
+      "translationParagraphIndex": 2779
+    },
+    "sourceText": "Sim, assim fica melhor! ‘...para avisar que não temos nenhum dos disquetes da Random que você encomendou...’",
+    "userTranslation": "(haven’t got = não temos; ordered = encomendou / pediu)."
+  },
+  {
+    "id": "tr_enpt_2781_bc2b8fba",
+    "reason": "attempt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 2781,
+      "translationParagraphIndex": 2782
+    },
+    "sourceText": "Ok.",
+    "userTranslation": "“‘We have similar ones, but these are made by CORLY LTD.’ Is that too formal?”"
+  },
+  {
+    "id": "tr_enpt_2783_e900069e",
+    "reason": "prompt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 2783,
+      "translationParagraphIndex": 2784
+    },
+    "sourceText": "‘Temos alguns parecidos, mas esses são fabricados pela CORLY LTD.’ Isso está muito formal?",
+    "userTranslation": "(similar ones usa ones para evitar repetir a palavra diskettes)."
+  },
+  {
+    "id": "tr_enpt_2786_0bfe0dc9",
+    "reason": "prompt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 2786,
+      "translationParagraphIndex": 2787
+    },
+    "sourceText": "Não, está ótimo / está bom.",
+    "userTranslation": "“‘If you would like to order these or would prefer to wait for the Random diskettes, please, ring me and let me know.’”"
+  },
+  {
+    "id": "tr_enpt_2788_7e4df414",
+    "reason": "prompt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 2788,
+      "translationParagraphIndex": 2789
+    },
+    "sourceText": "‘Se você quiser encomendar esses ou preferir esperar pelos disquetes da Random, por favor, me ligue e me avise.’",
+    "userTranslation": "(No inglês britânico, ring me significa \"me ligue no telefone\"; let me know significa \"me avise / me dê retorno\")."
+  },
+  {
+    "id": "tr_enpt_2796_7879dd49",
+    "reason": "attempt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 2796,
+      "translationParagraphIndex": 2797
+    },
+    "sourceText": "Ok, ‘Atenciosamente,’",
+    "userTranslation": "“Can you send it for me?”"
+  },
+  {
+    "id": "tr_enpt_2798_eb2bfeba",
+    "reason": "prompt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 2798,
+      "translationParagraphIndex": 2799
+    },
+    "sourceText": "Você pode enviar para mim?",
+    "userTranslation": "“Yes, sir.”"
+  },
+  {
+    "id": "tr_enpt_2997_67ca49fb",
+    "reason": "prompt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 2997,
+      "translationParagraphIndex": 2998
+    },
+    "sourceText": "em um horário que lhe convenha / seja conveniente para você",
+    "userTranslation": "1. Como verbo: conveniência e adequação (muito comum em negócios)"
+  },
+  {
+    "id": "tr_enpt_3036_8a4046ed",
+    "reason": "attempt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 3036,
+      "translationParagraphIndex": 3037
+    },
+    "sourceText": "You shouldn't take the cup of coffee, you should put it on the table.",
+    "userTranslation": "(ou \"...put the cup of coffee on the table.\")"
+  },
+  {
+    "id": "tr_enpt_3045_d212f522",
+    "reason": "attempt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 3045,
+      "translationParagraphIndex": 3046
+    },
+    "sourceText": "I would like to wait for you at my house.",
+    "userTranslation": "(Note que o verbo wait pede a preposição for quando especificamos quem estamos esperando: wait for you)."
+  },
+  {
+    "id": "tr_enpt_3065_ce3b446e",
+    "reason": "attempt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 3065,
+      "translationParagraphIndex": 3066
+    },
+    "sourceText": "You have to put on your seat belt, the plane is taking off.",
+    "userTranslation": "(ou \"You have to fasten your seatbelt, the plane is taking off.\")"
+  },
+  {
+    "id": "tr_enpt_3100_7591c73b",
+    "reason": "attempt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 3100,
+      "translationParagraphIndex": 3101
+    },
+    "sourceText": "The pedal on your right is called the accelerator, push it down.",
+    "userTranslation": "(ou \"...is called the gas pedal, push it down.\")"
+  },
+  {
+    "id": "tr_enpt_3123_b0c15bf1",
+    "reason": "attempt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 3123,
+      "translationParagraphIndex": 3124
+    },
+    "sourceText": "You have to get the glasses on the shelf.",
+    "userTranslation": "(ou \"You have to take the glasses from the shelf.\")"
+  },
+  {
+    "id": "tr_enpt_3325_000d9660",
+    "reason": "attempt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 3325,
+      "translationParagraphIndex": 3326
+    },
+    "sourceText": "It will rain in Curitiba today, only a few light showers.",
+    "userTranslation": "(ou \"It's going to rain in Curitiba today, just some light showers.\")"
+  },
+  {
+    "id": "tr_enpt_3334_d9efa56f",
+    "reason": "attempt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 3334,
+      "translationParagraphIndex": 3335
+    },
+    "sourceText": "Take the second right and stop at the traffic lights, I'll be there waiting for you.",
+    "userTranslation": "(ou \"Take the second corner on your right and stop at the traffic lights, I'm going to be there waiting for you.\")"
+  },
+  {
+    "id": "tr_enpt_3471_207c2ae9",
+    "reason": "attempt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 3471,
+      "translationParagraphIndex": 3472
+    },
+    "sourceText": "How do you set up your computer?",
+    "userTranslation": "\"Could you help me set up my computer?\""
+  },
+  {
+    "id": "tr_enpt_3538_018f4314",
+    "reason": "attempt_language_conflicts_with_en-pt",
+    "sourceLocation": {
+      "paragraphIndex": 3538,
+      "translationParagraphIndex": 3539
+    },
+    "sourceText": "Would you like to have dinner with me?",
+    "userTranslation": "(ou \"Would you like to join me for dinner?\")"
+  }
+]

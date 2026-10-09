@@ -1,0 +1,822 @@
+[
+  {
+    "id": "pv_10002_cb1deddc",
+    "expression": "Take off",
+    "meaning": "Decolar (aviao)",
+    "example": "The plane is taking off.",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "tableIndex": 10,
+      "rowIndex": 2
+    },
+    "sourceRow": [
+      "Decolar (aviao)",
+      "Take off",
+      "The plane is taking off."
+    ],
+    "context": "Decolar (aviao) | Take off | The plane is taking off.",
+    "recordType": "table-entry",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": true
+  },
+  {
+    "id": "pv_10003_8c82915d",
+    "expression": "Set up",
+    "meaning": "Configurar (computador)",
+    "example": "Help me set up my laptop.",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "tableIndex": 10,
+      "rowIndex": 3
+    },
+    "sourceRow": [
+      "Configurar (computador)",
+      "Set up / Configure",
+      "Help me set up my laptop."
+    ],
+    "context": "Configurar (computador) | Set up / Configure | Help me set up my laptop.",
+    "recordType": "table-entry",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": true
+  },
+  {
+    "id": "pv_10004_584f3695",
+    "expression": "Wait for",
+    "meaning": "Esperar por alguém",
+    "example": "I am waiting for you.",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "tableIndex": 10,
+      "rowIndex": 4
+    },
+    "sourceRow": [
+      "Esperar por alguém",
+      "Wait for [someone]",
+      "I am waiting for you."
+    ],
+    "context": "Esperar por alguém | Wait for [someone] | I am waiting for you.",
+    "recordType": "table-entry",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": true
+  },
+  {
+    "id": "pv_10005_5dec06e9",
+    "expression": "Look back",
+    "meaning": "Olhar para trás",
+    "example": "Look behind you!",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "tableIndex": 10,
+      "rowIndex": 5
+    },
+    "sourceRow": [
+      "Olhar para trás",
+      "Look back / Look behind",
+      "Look behind you!"
+    ],
+    "context": "Olhar para trás | Look back / Look behind | Look behind you!",
+    "recordType": "table-entry",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": true
+  },
+  {
+    "id": "pv_12004_1db7a91f",
+    "expression": "Ask (someone) out",
+    "meaning": "Convidar para sair",
+    "example": "I'm going to ask her out.",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "tableIndex": 12,
+      "rowIndex": 4
+    },
+    "sourceRow": [
+      "Convidar para sair",
+      "Ask (someone) out",
+      "I'm going to ask her out."
+    ],
+    "context": "Convidar para sair | Ask (someone) out | I'm going to ask her out.",
+    "recordType": "table-entry",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": true
+  },
+  {
+    "id": "pv_12005_e0344191",
+    "expression": "Get off",
+    "meaning": "Descer do ônibus",
+    "example": "I got off the bus.",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "tableIndex": 12,
+      "rowIndex": 5
+    },
+    "sourceRow": [
+      "Descer do ônibus",
+      "Get off the bus",
+      "I got off the bus."
+    ],
+    "context": "Descer do ônibus | Get off the bus | I got off the bus.",
+    "recordType": "table-entry",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": true
+  },
+  {
+    "id": "pv_12006_708e6b6f",
+    "expression": "Wait for",
+    "meaning": "Esperar por alguém",
+    "example": "I'm waiting for you.",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "tableIndex": 12,
+      "rowIndex": 6
+    },
+    "sourceRow": [
+      "Esperar por alguém",
+      "Wait for someone",
+      "I'm waiting for you."
+    ],
+    "context": "Esperar por alguém | Wait for someone | I'm waiting for you.",
+    "recordType": "table-entry",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": true
+  },
+  {
+    "id": "pv_15007_90cb2c97",
+    "expression": "get on",
+    "meaning": "Subir no ônibus",
+    "example": null,
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "tableIndex": 15,
+      "rowIndex": 7
+    },
+    "sourceRow": [
+      "Subir no ônibus",
+      "up on the bus",
+      "get on the bus"
+    ],
+    "context": "Subir no ônibus | up on the bus | get on the bus",
+    "recordType": "table-entry",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_0304_e5c2fba8",
+    "expression": "call in",
+    "meaning": null,
+    "example": "“Well, we know where she lives...; we can call in to her and invite her to come out.”",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 304
+    },
+    "sourceRow": null,
+    "context": "“Well, we know where she lives...; we can call in to her and invite her to come out.”",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_0304_9350fba9",
+    "expression": "come out",
+    "meaning": null,
+    "example": "“Well, we know where she lives...; we can call in to her and invite her to come out.”",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 304
+    },
+    "sourceRow": null,
+    "context": "“Well, we know where she lives...; we can call in to her and invite her to come out.”",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_0327_b82f0d67",
+    "expression": "call in",
+    "meaning": null,
+    "example": "“Well, we know where she lives...; we can call in to her and invite her to come out.”",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 327
+    },
+    "sourceRow": null,
+    "context": "“Well, we know where she lives...; we can call in to her and invite her to come out.”",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_0327_2a0522c2",
+    "expression": "come out",
+    "meaning": null,
+    "example": "“Well, we know where she lives...; we can call in to her and invite her to come out.”",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 327
+    },
+    "sourceRow": null,
+    "context": "“Well, we know where she lives...; we can call in to her and invite her to come out.”",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_0331_d7f6e5d8",
+    "expression": "call in",
+    "meaning": null,
+    "example": "call in (on/to somebody) é um phrasal verb que significa fazer uma visita rápida / passar na casa de alguém, e não fazer uma ligação telefônica (que seria apenas call her).",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 331
+    },
+    "sourceRow": null,
+    "context": "call in (on/to somebody) é um phrasal verb que significa fazer uma visita rápida / passar na casa de alguém, e não fazer uma ligação telefônica (que seria apenas call her).",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_0417_f0c5905e",
+    "expression": "get off",
+    "meaning": null,
+    "example": "Ajuste: To get off significa descer ou sair de um transporte coletivo (o oposto de get on). Just indica que foi agora mesmo.",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 417
+    },
+    "sourceRow": null,
+    "context": "Ajuste: To get off significa descer ou sair de um transporte coletivo (o oposto de get on). Just indica que foi agora mesmo.",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_0417_0abb9bb1",
+    "expression": "get on",
+    "meaning": null,
+    "example": "Ajuste: To get off significa descer ou sair de um transporte coletivo (o oposto de get on). Just indica que foi agora mesmo.",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 417
+    },
+    "sourceRow": null,
+    "context": "Ajuste: To get off significa descer ou sair de um transporte coletivo (o oposto de get on). Just indica que foi agora mesmo.",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_0885_67a3b20e",
+    "expression": "go out",
+    "meaning": null,
+    "example": "“But he doesn’t like to go out on Saturday night.”",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 885
+    },
+    "sourceRow": null,
+    "context": "“But he doesn’t like to go out on Saturday night.”",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_0914_a70bcf54",
+    "expression": "go out",
+    "meaning": null,
+    "example": "“But he doesn’t like to go out on Saturday night.” → Mas ele não gosta de sair no sábado à noite.",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 914
+    },
+    "sourceRow": null,
+    "context": "“But he doesn’t like to go out on Saturday night.” → Mas ele não gosta de sair no sábado à noite.",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_1039_b3fd08c1",
+    "expression": "look at",
+    "meaning": null,
+    "example": "“Today we are going to look at different types of trees and where they grow.”",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 1039
+    },
+    "sourceRow": null,
+    "context": "“Today we are going to look at different types of trees and where they grow.”",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_1041_35afe120",
+    "expression": "Look at",
+    "meaning": null,
+    "example": "Ajuste: Look at em contextos de apresentação/estudo significa ver, observar ou conhecer. Para plantas, grow costuma ser traduzido como crescer (embora \"nascer\" seja compreensível).",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 1041
+    },
+    "sourceRow": null,
+    "context": "Ajuste: Look at em contextos de apresentação/estudo significa ver, observar ou conhecer. Para plantas, grow costuma ser traduzido como crescer (embora \"nascer\" seja compreensível).",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_1043_491622ee",
+    "expression": "look at",
+    "meaning": null,
+    "example": "“We will also look at some flowers and some that we can find in parks.”",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 1043
+    },
+    "sourceRow": null,
+    "context": "“We will also look at some flowers and some that we can find in parks.”",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_1046_a84d7537",
+    "expression": "look at",
+    "meaning": null,
+    "example": "“We will look at the oak tree and the beech tree.”",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 1046
+    },
+    "sourceRow": null,
+    "context": "“We will look at the oak tree and the beech tree.”",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_1052_695284e1",
+    "expression": "look at",
+    "meaning": null,
+    "example": "“Then we will look at the rose and the daffodil.”",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 1052
+    },
+    "sourceRow": null,
+    "context": "“Then we will look at the rose and the daffodil.”",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_1056_5268c8cb",
+    "expression": "look at",
+    "meaning": null,
+    "example": "“And finally, we will look at the animals that rely on them for food or shelter.”",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 1056
+    },
+    "sourceRow": null,
+    "context": "“And finally, we will look at the animals that rely on them for food or shelter.”",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_1062_f022d519",
+    "expression": "look at",
+    "meaning": null,
+    "example": "“The birds we will look at today are parrots, and we will also look at goldfish.”",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 1062
+    },
+    "sourceRow": null,
+    "context": "“The birds we will look at today are parrots, and we will also look at goldfish.”",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_1789_2313ae2f",
+    "expression": "Turn off",
+    "meaning": null,
+    "example": "\"Turn off the lights, please.\" (Apague/desligue as luzes, por favor.)",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 1789
+    },
+    "sourceRow": null,
+    "context": "\"Turn off the lights, please.\" (Apague/desligue as luzes, por favor.)",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_2146_6adbdd0c",
+    "expression": "find out",
+    "meaning": null,
+    "example": "\"I need to find out the truth.\" (Preciso descobrir a verdade.)",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 2146
+    },
+    "sourceRow": null,
+    "context": "\"I need to find out the truth.\" (Preciso descobrir a verdade.)",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_2147_7c49f07f",
+    "expression": "find out",
+    "meaning": null,
+    "example": "\"How did you find out about that?\" (Como você ficou sabendo / descobriu sobre isso?)",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 2147
+    },
+    "sourceRow": null,
+    "context": "\"How did you find out about that?\" (Como você ficou sabendo / descobriu sobre isso?)",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_2756_c15fff0a",
+    "expression": "wait for",
+    "meaning": null,
+    "example": "“‘If you would like to order these or would prefer to wait for the Random diskettes, please, ring me and let me know.’”",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 2756
+    },
+    "sourceRow": null,
+    "context": "“‘If you would like to order these or would prefer to wait for the Random diskettes, please, ring me and let me know.’”",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_2787_37e8e931",
+    "expression": "wait for",
+    "meaning": null,
+    "example": "“‘If you would like to order these or would prefer to wait for the Random diskettes, please, ring me and let me know.’”",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 2787
+    },
+    "sourceRow": null,
+    "context": "“‘If you would like to order these or would prefer to wait for the Random diskettes, please, ring me and let me know.’”",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_2834_2cc7d037",
+    "expression": "wait for",
+    "meaning": null,
+    "example": "“‘If you would like to order these or would prefer to wait for the Random diskettes, please, ring me and let me know.’”",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 2834
+    },
+    "sourceRow": null,
+    "context": "“‘If you would like to order these or would prefer to wait for the Random diskettes, please, ring me and let me know.’”",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_3045_3a204782",
+    "expression": "wait for",
+    "meaning": null,
+    "example": "\"I would like to wait for you at my house.\"",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 3045
+    },
+    "sourceRow": null,
+    "context": "\"I would like to wait for you at my house.\"",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_3046_f99909cc",
+    "expression": "wait for",
+    "meaning": null,
+    "example": "(Note que o verbo wait pede a preposição for quando especificamos quem estamos esperando: wait for you).",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 3046
+    },
+    "sourceRow": null,
+    "context": "(Note que o verbo wait pede a preposição for quando especificamos quem estamos esperando: wait for you).",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_3049_4016d82d",
+    "expression": "set up",
+    "meaning": null,
+    "example": "Ajuste: Em inglês, \"configurar\" pode ser traduzido diretamente como o verbo to set up (mais comum no dia a dia) ou to configure. A preposição para dispositivos é on (on your computer).",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 3049
+    },
+    "sourceRow": null,
+    "context": "Ajuste: Em inglês, \"configurar\" pode ser traduzido diretamente como o verbo to set up (mais comum no dia a dia) ou to configure. A preposição para dispositivos é on (on your computer).",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_3051_a66f15f3",
+    "expression": "set up",
+    "meaning": null,
+    "example": "\"How do you set up your computer?\" (ou \"How do you configure your computer?\")",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 3051
+    },
+    "sourceRow": null,
+    "context": "\"How do you set up your computer?\" (ou \"How do you configure your computer?\")",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_3054_ff8e9c56",
+    "expression": "set up",
+    "meaning": null,
+    "example": "Ajuste: Correção de digitação em could (faltou o u). Após o verbo help, usa-se o verbo na forma base com ou sem to (help me set up ou help me to set up).",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 3054
+    },
+    "sourceRow": null,
+    "context": "Ajuste: Correção de digitação em could (faltou o u). Após o verbo help, usa-se o verbo na forma base com ou sem to (help me set up ou help me to set up).",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_3056_050aa833",
+    "expression": "set up",
+    "meaning": null,
+    "example": "\"Could you help me set up my computer?\" (ou \"Could you help me configure my computer?\")",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 3056
+    },
+    "sourceRow": null,
+    "context": "\"Could you help me set up my computer?\" (ou \"Could you help me configure my computer?\")",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_3062_a55b188f",
+    "expression": "put on",
+    "meaning": null,
+    "example": "O verbo para \"colocar\" o cinto é fasten (afivelar) ou put on.",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 3062
+    },
+    "sourceRow": null,
+    "context": "O verbo para \"colocar\" o cinto é fasten (afivelar) ou put on.",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_3065_cdb7cb3f",
+    "expression": "put on",
+    "meaning": null,
+    "example": "\"You have to put on your seat belt, the plane is taking off.\"",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 3065
+    },
+    "sourceRow": null,
+    "context": "\"You have to put on your seat belt, the plane is taking off.\"",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_3069_08f772a9",
+    "expression": "look back",
+    "meaning": null,
+    "example": "Ajuste: \"Olhar para trás\" em inglês é uma expressão fixa: look back ou look behind you.",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 3069
+    },
+    "sourceRow": null,
+    "context": "Ajuste: \"Olhar para trás\" em inglês é uma expressão fixa: look back ou look behind you.",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_3071_5fd6e7be",
+    "expression": "Look back",
+    "meaning": null,
+    "example": "\"Look back now.\" (ou \"Look behind you now.\")",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 3071
+    },
+    "sourceRow": null,
+    "context": "\"Look back now.\" (ou \"Look behind you now.\")",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_3221_28aecde7",
+    "expression": "get off",
+    "meaning": null,
+    "example": "\"Descer\" de veículos grandes como ônibus, trem e avião é o phrasal verb get off (no passado: got off).",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 3221
+    },
+    "sourceRow": null,
+    "context": "\"Descer\" de veículos grandes como ônibus, trem e avião é o phrasal verb get off (no passado: got off).",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_3468_07a52f84",
+    "expression": "set up",
+    "meaning": null,
+    "example": "O professor colocou (up) entre parênteses para mostrar que to set up é um phrasal verb, e o up pode ser omitido em alguns contextos, embora a combinação completa seja a mais usada.",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 3468
+    },
+    "sourceRow": null,
+    "context": "O professor colocou (up) entre parênteses para mostrar que to set up é um phrasal verb, e o up pode ser omitido em alguns contextos, embora a combinação completa seja a mais usada.",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_3469_7f7392b4",
+    "expression": "Set up",
+    "meaning": null,
+    "example": "1. O Phrasal Verb: \"Set up\"",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 3469
+    },
+    "sourceRow": null,
+    "context": "1. O Phrasal Verb: \"Set up\"",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_3470_92ac9630",
+    "expression": "set up",
+    "meaning": null,
+    "example": "O verbo mais natural em inglês para configurar / instalar um computador, programa ou rede é set up:",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 3470
+    },
+    "sourceRow": null,
+    "context": "O verbo mais natural em inglês para configurar / instalar um computador, programa ou rede é set up:",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_3471_7b85fe26",
+    "expression": "set up",
+    "meaning": null,
+    "example": "\"How do you set up your computer?\"",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 3471
+    },
+    "sourceRow": null,
+    "context": "\"How do you set up your computer?\"",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_3472_0582777c",
+    "expression": "set up",
+    "meaning": null,
+    "example": "\"Could you help me set up my computer?\"",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 3472
+    },
+    "sourceRow": null,
+    "context": "\"Could you help me set up my computer?\"",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_3474_449834d7",
+    "expression": "Set up",
+    "meaning": null,
+    "example": "Com \"up\" (Set up): É o phrasal verb completo e a forma mais natural para se referir a montar, configurar do zero ou preparar um aparelho para uso.",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 3474
+    },
+    "sourceRow": null,
+    "context": "Com \"up\" (Set up): É o phrasal verb completo e a forma mais natural para se referir a montar, configurar do zero ou preparar um aparelho para uso.",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_3478_4f8b5d8b",
+    "expression": "set up",
+    "meaning": null,
+    "example": "\"Could you help me set up my computer?\"",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 3478
+    },
+    "sourceRow": null,
+    "context": "\"Could you help me set up my computer?\"",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_3607_d532c97b",
+    "expression": "look at",
+    "meaning": null,
+    "example": "Se você usar o verbo look (olhar), aí sim precisaria de at (look at the sharks).",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 3607
+    },
+    "sourceRow": null,
+    "context": "Se você usar o verbo look (olhar), aí sim precisaria de at (look at the sharks).",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_3690_aed83df8",
+    "expression": "wait for",
+    "meaning": null,
+    "example": "\"Now you have to turn on the engine, press the pedal on the right and wait for takeoff.\"",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 3690
+    },
+    "sourceRow": null,
+    "context": "\"Now you have to turn on the engine, press the pedal on the right and wait for takeoff.\"",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_3696_94cc15cc",
+    "expression": "get on",
+    "meaning": null,
+    "example": "\"Subir / embarcar no ônibus\": o verbo correto é o phrasal verb get on (ou board), usando a forma em -ing após a preposição before (before getting on the bus).",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 3696
+    },
+    "sourceRow": null,
+    "context": "\"Subir / embarcar no ônibus\": o verbo correto é o phrasal verb get on (ou board), usando a forma em -ing após a preposição before (before getting on the bus).",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  },
+  {
+    "id": "pvpara_3823_c41baa1a",
+    "expression": "ask out",
+    "meaning": null,
+    "example": "\"Convidar para sair\" (em tom de encontro/encontro social) diz-se ask out (ask him out). Se for apenas \"convidar\", usa-se invite him.",
+    "source": "Histórico IA inglês.docx",
+    "sourceLocation": {
+      "paragraphIndex": 3823
+    },
+    "sourceRow": null,
+    "context": "\"Convidar para sair\" (em tom de encontro/encontro social) diz-se ask out (ask him out). Se for apenas \"convidar\", usa-se invite him.",
+    "recordType": "text-mention",
+    "auditStatus": "source-transcribed; dictionary-entry-not-individually-verified",
+    "usableForQuiz": false
+  }
+]
